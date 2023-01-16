@@ -35,7 +35,7 @@
 `sibling ~ following`
 
 ## Hintergrundbild
-``
+`background-image: url()`
 
 ## Bild-Größe (Hintergrund)
 |   |   |
