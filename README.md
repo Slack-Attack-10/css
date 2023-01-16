@@ -33,3 +33,16 @@
 
 ## Nachfolgende Geschwister
 `sibling ~ following`
+
+## Hintergrundbild
+``
+
+## Bild-Größe (Hintergrund)
+|   |   |
+|---|---|
+|`background-size`| `cover`<br>`contain`
+
+
+
+## Bild-Größe (`<img>`)
+`object-fit`
