@@ -31,7 +31,7 @@
 `*`
 
 ## Mehrere Selktoren
-`p, h1, div`
+`p, h1, div, id`
 
 ## Benachbartes Geschwister-Element
 `sibling1 + sibling2`
@@ -51,3 +51,29 @@
 
 ## Bild-Größe (`<img>`)
 `object-fit`
+
+## color
+`farbe `
+
+## Pesodoklasse
+`hover, vistidet, active `
+
+
+## width,heigth
+`vh, vw`
+
+## selctor
+`nth-child`
+
+## img
+` img, target-blink`
+
+## link
+` a: email a:Tele`
+
+
+
+
+
+
+
