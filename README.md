@@ -5,6 +5,11 @@
 - [CSS Scoops](https://codepip.com/games/css-scoops/)
 - [CSS Battle](https://cssbattle.dev/)
 
+# Spezifität
+- [Spezifität](https://www.little-boxes.de/lb1/6.5-spezifitaet-punktesystem-fuer-selektoren.html)
+- [Guess The Specificity](https://specificity-game.netlify.app/)
+- [CSS Specificity Test](http://css-fun.surge.sh/)
+
 # Selectors
 
 ## Tag selector
