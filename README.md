@@ -55,15 +55,15 @@
 # Pseudoclasse
 
 ## List selector
--`:nht-child() - 'odd' 'even' oder 'number'`
--`:first-child - Wählt jedes <p>-Element aus, das das zweite untergeordnete Element seines übergeordneten Elements ist`
--`:last-child - spricht das letzte Element eines Eltern-Elements an`
--`:nth-last-child() - selektiert das anvisierte Kind. Zählweise von hinten.`
--`:nth-of-type() -  Wählt das n-te Element eines Eltern-Elements aus`
--`:first-of-type - Wählt das jeweils letzte Kindelement einer bestimmten Art aus.`
--`:last-of-type - Wählt das jeweils letzte Kindelement einer bestimmten Art aus.`
+- :nht-child() -- `'odd' 'even' oder 'number'`
+- :first-child -- `Wählt jedes <p>-Element aus, das das zweite untergeordnete Element seines übergeordneten Elements ist`
+- :last-child -- `Spricht das letzte Element eines Eltern-Elements an`
+- :nth-last-child() -- `Selektiert das anvisierte Kind. Zählweise von hinten.`
+- :nth-of-type() --  `Wählt das n-te Element eines Eltern-Elements aus`
+- :first-of-type -- `Wählt das jeweils letzte Kindelement einer bestimmten Art aus.`
+- :last-of-type -- `Wählt das jeweils letzte Kindelement einer bestimmten Art aus.`
 -
--`:link - `
--`:hover - `
--`:active - `
--`:visited - `
+- :link -- ` `
+- :hover -- ` `
+- :active -- ` `
+- :visited -- ` `
