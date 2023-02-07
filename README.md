@@ -51,3 +51,9 @@
 
 ## Bild-Größe (`<img>`)
 `object-fit`
+
+# Media queries
+`@media` muss unten im CSS stehen damit es andere Eigenschaften überschreiben kann.
+
+## Mobile first
+`min-width` wird für mobile first benutzt. `max-width` bedeuted meistens nicht mobile first.
